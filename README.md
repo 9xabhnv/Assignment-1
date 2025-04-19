@@ -1,6 +1,6 @@
 # assignment 1
 
-# Task 1
+#Task 1
 A basic calucaltor to perform basic arithmatic operations such as addition, subtraction, multiplication, division.
 
 #Task  2
